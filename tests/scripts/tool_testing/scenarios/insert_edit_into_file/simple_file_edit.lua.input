@@ -1,8 +1,0 @@
-local M = {}
-
-function M.greet(name)
-  return "Hello, " .. name
-end
-
-print(M.greet("World"))
-return M
